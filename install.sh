@@ -122,3 +122,4 @@ cd ~/tools/
 
 echo "installing peass"
 git clone https://github.com/carlospolop/PEASS-ng
+
